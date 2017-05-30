@@ -1,0 +1,22 @@
+{
+  "name": "gumga-documentation-ng",
+  "description": "Gumga Documentation (AngularJS)",
+  "main": "src/documentation.js",
+  "authors": [
+    "Gumga Tecnologia da Informação S/A"
+  ],
+  "license": "LGPL-3.0",
+  "keywords": [
+    "gumga",
+    "documentation",
+    "angular"
+  ],
+  "homepage": "https://github.com/GUMGA/gumga-documentation-ng",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
